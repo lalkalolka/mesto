@@ -6,3 +6,6 @@
 ## Используемые технологии:
 - HTML;
 - CSS.
+
+## Ссылка
+https://lalkalolka.github.io/mesto/

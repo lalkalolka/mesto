@@ -19,9 +19,4 @@
         line-height: 33px;
         width: auto;
     }
-
-    .profile__heading::before {
-        width: 18px;
-        height: 18px;
-    }
 }

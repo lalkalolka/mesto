@@ -1,4 +1,5 @@
 .element__background {
-    height: 79px;
+    min-height: 79px;
     background-color: #FFFFFF;
+    display: flex;
 }
